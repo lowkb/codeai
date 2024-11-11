@@ -25,9 +25,8 @@ Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (
 - Significantly improvements in **code generation**, **code reasoning** and **code fixing**. Base on the strong Qwen2.5, we scale up the training tokens into 5.5 trillion including source code, text-code grounding, Synthetic data, etc. Qwen2.5-Coder-32B has become the current state-of-the-art open-source codeLLM, with its coding abilities matching those of GPT-4o.
 - A more comprehensive foundation for real-world applications such as **Code Agents**. Not only enhancing coding capabilities but also maintaining its strengths in mathematics and general competencies.
 - **Long-context Support** up to 128K tokens.
-- 
 
-**This repo contains the instruction-tuned 7B Qwen2.5-Coder model**, which has the following features:
+**This repo contains the instruction-tuned 32B Qwen2.5-Coder model**, which has the following features:
 - Type: Causal Language Models
 - Training Stage: Pretraining & Post-training
 - Architecture: transformers with RoPE, SwiGLU, RMSNorm, and Attention QKV bias
