@@ -121,10 +121,10 @@ If you find our work helpful, feel free to give us a cite.
 
 ```
 @article{hui2024qwen2,
-  title={Qwen2. 5-Coder Technical Report},
-  author={Hui, Binyuan and Yang, Jian and Cui, Zeyu and Yang, Jiaxi and Liu, Dayiheng and Zhang, Lei and Liu, Tianyu and Zhang, Jiajun and Yu, Bowen and Dang, Kai and others},
-  journal={arXiv preprint arXiv:2409.12186},
-  year={2024}
+      title={Qwen2. 5-Coder Technical Report},
+      author={Hui, Binyuan and Yang, Jian and Cui, Zeyu and Yang, Jiaxi and Liu, Dayiheng and Zhang, Lei and Liu, Tianyu and Zhang, Jiajun and Yu, Bowen and Dang, Kai and others},
+      journal={arXiv preprint arXiv:2409.12186},
+      year={2024}
 }
 @article{qwen2,
       title={Qwen2 Technical Report}, 
