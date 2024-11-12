@@ -5,7 +5,7 @@ language:
 - en
 base_model:
 - Qwen/Qwen2.5-Coder-32B
-pipeline_tag: text-generation
+pipeline_tag: fill-mask
 library_name: transformers
 tags:
 - code
