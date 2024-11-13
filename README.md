@@ -32,7 +32,7 @@ Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (
 - Architecture: transformers with RoPE, SwiGLU, RMSNorm, and Attention QKV bias
 - Number of Parameters: 32.5B
 - Number of Paramaters (Non-Embedding): 31.0B
-- Number of Layers: 64
+- Number of Layers: 512
 - Number of Attention Heads (GQA): 40 for Q and 8 for KV
 - Context Length: Full 131,072 tokens
   - Please refer to [this section](#processing-long-texts) for detailed instructions on how to deploy Qwen2.5 for handling long texts.
@@ -78,7 +78,7 @@ model_inputs = tokenizer([text], return_tensors="pt").to(model.device)
 
 generated_ids = model.generate(
     **model_inputs,
-    max_new_tokens=512
+    max_new_tokens=2048
 )
 generated_ids = [
     output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
